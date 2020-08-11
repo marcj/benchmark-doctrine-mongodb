@@ -1,0 +1,12 @@
+{
+    "name": "philipp.braeutigam/benchmark",
+    "require": {
+        "doctrine/mongodb-odm": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Philipp Bräutigam",
+            "email": "mail@philipp-braeutigam.de"
+        }
+    ]
+}
